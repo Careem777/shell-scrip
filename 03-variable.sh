@@ -1,6 +1,6 @@
 #!/bin/bash
-Ex1=KE
-Ex2=RE
+Ex1=SEXY
+Ex2=MIXY
 
 echo "$Ex1 :  Hey! $Ex2 How are ypu?"
 echo "$Ex2 : I am good $Ex2. How are you doing?"
